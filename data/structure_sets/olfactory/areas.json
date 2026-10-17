@@ -1,0 +1,158 @@
+[
+  {
+    "sid": 151,
+    "acronym": "AOB",
+    "name": "Accessory olfactory bulb",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "AOB"
+    ]
+  },
+  {
+    "sid": 159,
+    "acronym": "AON",
+    "name": "Anterior olfactory nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "AON"
+    ]
+  },
+  {
+    "sid": 507,
+    "acronym": "MOB",
+    "name": "Main olfactory bulb",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "MOB"
+    ]
+  },
+  {
+    "sid": 566,
+    "acronym": "TR",
+    "name": "Postpiriform transition area",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "TR"
+    ]
+  },
+  {
+    "sid": 589,
+    "acronym": "TT",
+    "name": "Taenia tecta",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "TT"
+    ]
+  },
+  {
+    "sid": 619,
+    "acronym": "NLOT",
+    "name": "Nucleus of the lateral olfactory tract",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "NLOT"
+    ]
+  },
+  {
+    "sid": 639,
+    "acronym": "COAa",
+    "name": "Cortical amygdalar area, anterior part",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "COA",
+      "COAa"
+    ]
+  },
+  {
+    "sid": 647,
+    "acronym": "COAp",
+    "name": "Cortical amygdalar area, posterior part",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "COA",
+      "COAp"
+    ]
+  },
+  {
+    "sid": 788,
+    "acronym": "PAA",
+    "name": "Piriform-amygdalar area",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "PAA"
+    ]
+  },
+  {
+    "sid": 814,
+    "acronym": "DP",
+    "name": "Dorsal peduncular area",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "DP"
+    ]
+  },
+  {
+    "sid": 961,
+    "acronym": "PIR",
+    "name": "Piriform area",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "OLF",
+      "PIR"
+    ]
+  }
+]

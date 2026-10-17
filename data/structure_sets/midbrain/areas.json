@@ -1,0 +1,520 @@
+[
+  {
+    "sid": 4,
+    "acronym": "IC",
+    "name": "Inferior colliculus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "IC"
+    ]
+  },
+  {
+    "sid": 12,
+    "acronym": "IF",
+    "name": "Interfascicular nucleus raphe",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "RAmb",
+      "IF"
+    ]
+  },
+  {
+    "sid": 35,
+    "acronym": "III",
+    "name": "Oculomotor nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "III"
+    ]
+  },
+  {
+    "sid": 58,
+    "acronym": "MT",
+    "name": "Medial terminal nucleus of the accessory optic tract",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "MT"
+    ]
+  },
+  {
+    "sid": 66,
+    "acronym": "LT",
+    "name": "Lateral terminal nucleus of the accessory optic tract",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "LT"
+    ]
+  },
+  {
+    "sid": 75,
+    "acronym": "DT",
+    "name": "Dorsal terminal nucleus of the accessory optic tract",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "DT"
+    ]
+  },
+  {
+    "sid": 100,
+    "acronym": "IPN",
+    "name": "Interpeduncular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "RAmb",
+      "IPN"
+    ]
+  },
+  {
+    "sid": 115,
+    "acronym": "IV",
+    "name": "Trochlear nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "IV"
+    ]
+  },
+  {
+    "sid": 128,
+    "acronym": "MRN",
+    "name": "Midbrain reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "MRN"
+    ]
+  },
+  {
+    "sid": 197,
+    "acronym": "RL",
+    "name": "Rostral linear nucleus raphe",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "RAmb",
+      "RL"
+    ]
+  },
+  {
+    "sid": 214,
+    "acronym": "RN",
+    "name": "Red nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "RN"
+    ]
+  },
+  {
+    "sid": 215,
+    "acronym": "APN",
+    "name": "Anterior pretectal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PRT",
+      "APN"
+    ]
+  },
+  {
+    "sid": 231,
+    "acronym": "AT",
+    "name": "Anterior tegmental nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "AT"
+    ]
+  },
+  {
+    "sid": 246,
+    "acronym": "RR",
+    "name": "Midbrain reticular nucleus, retrorubral area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "RR"
+    ]
+  },
+  {
+    "sid": 271,
+    "acronym": "SAG",
+    "name": "Nucleus sagulum",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "SAG"
+    ]
+  },
+  {
+    "sid": 294,
+    "acronym": "SCm",
+    "name": "Superior colliculus, motor related",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "SCm"
+    ]
+  },
+  {
+    "sid": 302,
+    "acronym": "SCs",
+    "name": "Superior colliculus, sensory related",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "SCs"
+    ]
+  },
+  {
+    "sid": 374,
+    "acronym": "SNc",
+    "name": "Substantia nigra, compact part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "SNc"
+    ]
+  },
+  {
+    "sid": 381,
+    "acronym": "SNr",
+    "name": "Substantia nigra, reticular part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "SNr"
+    ]
+  },
+  {
+    "sid": 460,
+    "acronym": "MEV",
+    "name": "Midbrain trigeminal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "MEV"
+    ]
+  },
+  {
+    "sid": 531,
+    "acronym": "MPT",
+    "name": "Medial pretectal area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PRT",
+      "MPT"
+    ]
+  },
+  {
+    "sid": 580,
+    "acronym": "NB",
+    "name": "Nucleus of the brachium of the inferior colliculus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "NB"
+    ]
+  },
+  {
+    "sid": 591,
+    "acronym": "CLI",
+    "name": "Central linear nucleus raphe",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "RAmb",
+      "CLI"
+    ]
+  },
+  {
+    "sid": 616,
+    "acronym": "CUN",
+    "name": "Cuneiform nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "CUN"
+    ]
+  },
+  {
+    "sid": 628,
+    "acronym": "NOT",
+    "name": "Nucleus of the optic tract",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PRT",
+      "NOT"
+    ]
+  },
+  {
+    "sid": 634,
+    "acronym": "NPC",
+    "name": "Nucleus of the posterior commissure",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PRT",
+      "NPC"
+    ]
+  },
+  {
+    "sid": 706,
+    "acronym": "OP",
+    "name": "Olivary pretectal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PRT",
+      "OP"
+    ]
+  },
+  {
+    "sid": 749,
+    "acronym": "VTA",
+    "name": "Ventral tegmental area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "VTA"
+    ]
+  },
+  {
+    "sid": 757,
+    "acronym": "VTN",
+    "name": "Ventral tegmental nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "VTN"
+    ]
+  },
+  {
+    "sid": 795,
+    "acronym": "PAG",
+    "name": "Periaqueductal gray",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PAG"
+    ]
+  },
+  {
+    "sid": 872,
+    "acronym": "DR",
+    "name": "Dorsal nucleus raphe",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "RAmb",
+      "DR"
+    ]
+  },
+  {
+    "sid": 874,
+    "acronym": "PBG",
+    "name": "Parabigeminal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "PBG"
+    ]
+  },
+  {
+    "sid": 975,
+    "acronym": "EW",
+    "name": "Edinger-Westphal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "EW"
+    ]
+  },
+  {
+    "sid": 1052,
+    "acronym": "PPN",
+    "name": "Pedunculopontine nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsta",
+      "PPN"
+    ]
+  },
+  {
+    "sid": 1061,
+    "acronym": "PPT",
+    "name": "Posterior pretectal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PRT",
+      "PPT"
+    ]
+  },
+  {
+    "sid": 549009211,
+    "acronym": "MA3",
+    "name": "Medial accesory oculomotor nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "MA3"
+    ]
+  },
+  {
+    "sid": 599626923,
+    "acronym": "SCO",
+    "name": "Subcommissural organ",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBsen",
+      "SCO"
+    ]
+  },
+  {
+    "sid": 606826663,
+    "acronym": "Pa4",
+    "name": "Paratrochlear nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "Pa4"
+    ]
+  },
+  {
+    "sid": 607344830,
+    "acronym": "PN",
+    "name": "Paranigral nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "MB",
+      "MBmot",
+      "PN"
+    ]
+  }
+]

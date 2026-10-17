@@ -1,0 +1,663 @@
+[
+  {
+    "sid": 15,
+    "acronym": "PT",
+    "name": "Parataenial nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MTN",
+      "PT"
+    ]
+  },
+  {
+    "sid": 27,
+    "acronym": "IGL",
+    "name": "Intergeniculate leaflet of the lateral geniculate complex",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "GENv",
+      "IGL"
+    ]
+  },
+  {
+    "sid": 59,
+    "acronym": "IMD",
+    "name": "Intermediodorsal nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MED",
+      "IMD"
+    ]
+  },
+  {
+    "sid": 64,
+    "acronym": "AD",
+    "name": "Anterodorsal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ATN",
+      "AD"
+    ]
+  },
+  {
+    "sid": 127,
+    "acronym": "AM",
+    "name": "Anteromedial nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ATN",
+      "AM"
+    ]
+  },
+  {
+    "sid": 149,
+    "acronym": "PVT",
+    "name": "Paraventricular nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MTN",
+      "PVT"
+    ]
+  },
+  {
+    "sid": 155,
+    "acronym": "LD",
+    "name": "Lateral dorsal nucleus of thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ATN",
+      "LD"
+    ]
+  },
+  {
+    "sid": 170,
+    "acronym": "LGd",
+    "name": "Dorsal part of the lateral geniculate complex",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "GENd",
+      "LGd"
+    ]
+  },
+  {
+    "sid": 178,
+    "acronym": "LGv",
+    "name": "Ventral part of the lateral geniculate complex",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "GENv",
+      "LGv"
+    ]
+  },
+  {
+    "sid": 181,
+    "acronym": "RE",
+    "name": "Nucleus of reuniens",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MTN",
+      "RE"
+    ]
+  },
+  {
+    "sid": 186,
+    "acronym": "LH",
+    "name": "Lateral habenula",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "EPI",
+      "LH"
+    ]
+  },
+  {
+    "sid": 189,
+    "acronym": "RH",
+    "name": "Rhomboid nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ILM",
+      "RH"
+    ]
+  },
+  {
+    "sid": 218,
+    "acronym": "LP",
+    "name": "Lateral posterior nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "LAT",
+      "LP"
+    ]
+  },
+  {
+    "sid": 255,
+    "acronym": "AV",
+    "name": "Anteroventral nucleus of thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ATN",
+      "AV"
+    ]
+  },
+  {
+    "sid": 262,
+    "acronym": "RT",
+    "name": "Reticular nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "RT"
+    ]
+  },
+  {
+    "sid": 321,
+    "acronym": "SubG",
+    "name": "Subgeniculate nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "GENv",
+      "SubG"
+    ]
+  },
+  {
+    "sid": 325,
+    "acronym": "SGN",
+    "name": "Suprageniculate nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "LAT",
+      "SGN"
+    ]
+  },
+  {
+    "sid": 362,
+    "acronym": "MD",
+    "name": "Mediodorsal nucleus of thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MED",
+      "MD"
+    ]
+  },
+  {
+    "sid": 366,
+    "acronym": "SMT",
+    "name": "Submedial nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MED",
+      "SMT"
+    ]
+  },
+  {
+    "sid": 414,
+    "acronym": "SPFm",
+    "name": "Subparafascicular nucleus, magnocellular part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "SPF",
+      "SPFm"
+    ]
+  },
+  {
+    "sid": 422,
+    "acronym": "SPFp",
+    "name": "Subparafascicular nucleus, parvicellular part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "SPF",
+      "SPFp"
+    ]
+  },
+  {
+    "sid": 475,
+    "acronym": "MG",
+    "name": "Medial geniculate complex",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "GENd",
+      "MG"
+    ]
+  },
+  {
+    "sid": 483,
+    "acronym": "MH",
+    "name": "Medial habenula",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "EPI",
+      "MH"
+    ]
+  },
+  {
+    "sid": 575,
+    "acronym": "CL",
+    "name": "Central lateral nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ILM",
+      "CL"
+    ]
+  },
+  {
+    "sid": 599,
+    "acronym": "CM",
+    "name": "Central medial nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ILM",
+      "CM"
+    ]
+  },
+  {
+    "sid": 609,
+    "acronym": "SPA",
+    "name": "Subparafascicular area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "SPA"
+    ]
+  },
+  {
+    "sid": 629,
+    "acronym": "VAL",
+    "name": "Ventral anterior-lateral complex of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "VAL"
+    ]
+  },
+  {
+    "sid": 685,
+    "acronym": "VM",
+    "name": "Ventral medial nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "VM"
+    ]
+  },
+  {
+    "sid": 718,
+    "acronym": "VPL",
+    "name": "Ventral posterolateral nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "VP",
+      "VPL"
+    ]
+  },
+  {
+    "sid": 725,
+    "acronym": "VPLpc",
+    "name": "Ventral posterolateral nucleus of the thalamus, parvicellular part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "VP",
+      "VPLpc"
+    ]
+  },
+  {
+    "sid": 733,
+    "acronym": "VPM",
+    "name": "Ventral posteromedial nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "VP",
+      "VPM"
+    ]
+  },
+  {
+    "sid": 741,
+    "acronym": "VPMpc",
+    "name": "Ventral posteromedial nucleus of the thalamus, parvicellular part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "VP",
+      "VPMpc"
+    ]
+  },
+  {
+    "sid": 907,
+    "acronym": "PCN",
+    "name": "Paracentral nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ILM",
+      "PCN"
+    ]
+  },
+  {
+    "sid": 930,
+    "acronym": "PF",
+    "name": "Parafascicular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ILM",
+      "PF"
+    ]
+  },
+  {
+    "sid": 1020,
+    "acronym": "PO",
+    "name": "Posterior complex of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "LAT",
+      "PO"
+    ]
+  },
+  {
+    "sid": 1029,
+    "acronym": "POL",
+    "name": "Posterior limiting nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "LAT",
+      "POL"
+    ]
+  },
+  {
+    "sid": 1044,
+    "acronym": "PP",
+    "name": "Peripeduncular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "PP"
+    ]
+  },
+  {
+    "sid": 1077,
+    "acronym": "PR",
+    "name": "Perireunensis nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MED",
+      "PR"
+    ]
+  },
+  {
+    "sid": 1113,
+    "acronym": "IAD",
+    "name": "Interanterodorsal nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ATN",
+      "IAD"
+    ]
+  },
+  {
+    "sid": 1120,
+    "acronym": "IAM",
+    "name": "Interanteromedial nucleus of the thalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ATN",
+      "IAM"
+    ]
+  },
+  {
+    "sid": 560581559,
+    "acronym": "Xi",
+    "name": "Xiphoid thalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "MTN",
+      "Xi"
+    ]
+  },
+  {
+    "sid": 560581563,
+    "acronym": "PIL",
+    "name": "Posterior intralaminar thalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "ILM",
+      "PIL"
+    ]
+  },
+  {
+    "sid": 563807435,
+    "acronym": "PoT",
+    "name": "Posterior triangular thalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORsm",
+      "VENT",
+      "PoT"
+    ]
+  },
+  {
+    "sid": 563807439,
+    "acronym": "IntG",
+    "name": "Intermediate geniculate nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "TH",
+      "DORpm",
+      "GENv",
+      "IntG"
+    ]
+  }
+]

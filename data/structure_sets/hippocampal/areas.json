@@ -1,0 +1,232 @@
+[
+  {
+    "sid": 19,
+    "acronym": "IG",
+    "name": "Induseum griseum",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "HIP",
+      "IG"
+    ]
+  },
+  {
+    "sid": 382,
+    "acronym": "CA1",
+    "name": "Field CA1",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "HIP",
+      "CA",
+      "CA1"
+    ]
+  },
+  {
+    "sid": 423,
+    "acronym": "CA2",
+    "name": "Field CA2",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "HIP",
+      "CA",
+      "CA2"
+    ]
+  },
+  {
+    "sid": 463,
+    "acronym": "CA3",
+    "name": "Field CA3",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "HIP",
+      "CA",
+      "CA3"
+    ]
+  },
+  {
+    "sid": 502,
+    "acronym": "SUB",
+    "name": "Subiculum",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "SUB"
+    ]
+  },
+  {
+    "sid": 726,
+    "acronym": "DG",
+    "name": "Dentate gyrus",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "HIP",
+      "DG"
+    ]
+  },
+  {
+    "sid": 843,
+    "acronym": "PAR",
+    "name": "Parasubiculum",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "PAR"
+    ]
+  },
+  {
+    "sid": 918,
+    "acronym": "ENTl",
+    "name": "Entorhinal area, lateral part",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "ENT",
+      "ENTl"
+    ]
+  },
+  {
+    "sid": 926,
+    "acronym": "ENTm",
+    "name": "Entorhinal area, medial part, dorsal zone",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "ENT",
+      "ENTm"
+    ]
+  },
+  {
+    "sid": 982,
+    "acronym": "FC",
+    "name": "Fasciola cinerea",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "HIP",
+      "FC"
+    ]
+  },
+  {
+    "sid": 1037,
+    "acronym": "POST",
+    "name": "Postsubiculum",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "POST"
+    ]
+  },
+  {
+    "sid": 1084,
+    "acronym": "PRE",
+    "name": "Presubiculum",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "PRE"
+    ]
+  },
+  {
+    "sid": 484682470,
+    "acronym": "ProS",
+    "name": "Prosubiculum",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "ProS"
+    ]
+  },
+  {
+    "sid": 484682508,
+    "acronym": "APr",
+    "name": "Area prostriata",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "APr"
+    ]
+  },
+  {
+    "sid": 589508447,
+    "acronym": "HATA",
+    "name": "Hippocampo-amygdalar transition area",
+    "ancestry": [
+      "root",
+      "grey",
+      "CH",
+      "CTX",
+      "CTXpl",
+      "HPF",
+      "RHP",
+      "HATA"
+    ]
+  }
+]

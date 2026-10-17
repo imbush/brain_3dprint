@@ -1,0 +1,19 @@
+{
+  "mouse_length_mm": 110.0,
+  "flat_bottom_mm": 45.0,
+  "wall_mm": 2.5,
+  "cortex_cap_mm": 8.0,
+  "wheel_slot": [
+    22.0,
+    18.0,
+    25.0
+  ],
+  "scale": 1.7023569710535131,
+  "cut_plane_y": 13.496544673185909,
+  "wheel_xy_brain": [
+    -28.150280380249026,
+    0.0
+  ],
+  "chassis_components_used": 7,
+  "screw_components_dropped": 11
+}

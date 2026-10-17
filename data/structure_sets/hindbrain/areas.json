@@ -1,0 +1,1010 @@
+[
+  {
+    "sid": 7,
+    "acronym": "PSV",
+    "name": "Principal sensory nucleus of the trigeminal",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sen",
+      "PSV"
+    ]
+  },
+  {
+    "sid": 83,
+    "acronym": "IO",
+    "name": "Inferior olivary complex",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "IO"
+    ]
+  },
+  {
+    "sid": 96,
+    "acronym": "DCO",
+    "name": "Dorsal cochlear nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "CN",
+      "DCO"
+    ]
+  },
+  {
+    "sid": 101,
+    "acronym": "VCO",
+    "name": "Ventral cochlear nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "CN",
+      "VCO"
+    ]
+  },
+  {
+    "sid": 106,
+    "acronym": "ISN",
+    "name": "Inferior salivatory nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "ISN"
+    ]
+  },
+  {
+    "sid": 135,
+    "acronym": "AMB",
+    "name": "Nucleus ambiguus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "AMB"
+    ]
+  },
+  {
+    "sid": 136,
+    "acronym": "IRN",
+    "name": "Intermediate reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "IRN"
+    ]
+  },
+  {
+    "sid": 146,
+    "acronym": "PRNr",
+    "name": "Pontine reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "PRNr"
+    ]
+  },
+  {
+    "sid": 147,
+    "acronym": "LC",
+    "name": "Locus ceruleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "LC"
+    ]
+  },
+  {
+    "sid": 162,
+    "acronym": "LDT",
+    "name": "Laterodorsal tegmental nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "LDT"
+    ]
+  },
+  {
+    "sid": 169,
+    "acronym": "PRP",
+    "name": "Nucleus prepositus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PHY",
+      "PRP"
+    ]
+  },
+  {
+    "sid": 177,
+    "acronym": "NR",
+    "name": "Nucleus of Roller",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PHY",
+      "NR"
+    ]
+  },
+  {
+    "sid": 202,
+    "acronym": "MV",
+    "name": "Medial vestibular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "VNC",
+      "MV"
+    ]
+  },
+  {
+    "sid": 203,
+    "acronym": "LIN",
+    "name": "Linear nucleus of the medulla",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "LIN"
+    ]
+  },
+  {
+    "sid": 206,
+    "acronym": "RM",
+    "name": "Nucleus raphe magnus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sat",
+      "RM"
+    ]
+  },
+  {
+    "sid": 207,
+    "acronym": "AP",
+    "name": "Area postrema",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "AP"
+    ]
+  },
+  {
+    "sid": 209,
+    "acronym": "LAV",
+    "name": "Lateral vestibular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "VNC",
+      "LAV"
+    ]
+  },
+  {
+    "sid": 217,
+    "acronym": "SUV",
+    "name": "Superior vestibular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "VNC",
+      "SUV"
+    ]
+  },
+  {
+    "sid": 222,
+    "acronym": "RO",
+    "name": "Nucleus raphe obscurus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sat",
+      "RO"
+    ]
+  },
+  {
+    "sid": 225,
+    "acronym": "SPIV",
+    "name": "Spinal vestibular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "VNC",
+      "SPIV"
+    ]
+  },
+  {
+    "sid": 230,
+    "acronym": "RPA",
+    "name": "Nucleus raphe pallidus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sat",
+      "RPA"
+    ]
+  },
+  {
+    "sid": 235,
+    "acronym": "LRN",
+    "name": "Lateral reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "LRN"
+    ]
+  },
+  {
+    "sid": 238,
+    "acronym": "RPO",
+    "name": "Nucleus raphe pontis",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "RPO"
+    ]
+  },
+  {
+    "sid": 280,
+    "acronym": "B",
+    "name": "Barrington's nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "B"
+    ]
+  },
+  {
+    "sid": 307,
+    "acronym": "MARN",
+    "name": "Magnocellular reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "MARN"
+    ]
+  },
+  {
+    "sid": 318,
+    "acronym": "SG",
+    "name": "Supragenual nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "SG"
+    ]
+  },
+  {
+    "sid": 350,
+    "acronym": "SLC",
+    "name": "Subceruleus nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "SLC"
+    ]
+  },
+  {
+    "sid": 358,
+    "acronym": "SLD",
+    "name": "Sublaterodorsal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "SLD"
+    ]
+  },
+  {
+    "sid": 372,
+    "acronym": "ICB",
+    "name": "Infracerebellar nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "ICB"
+    ]
+  },
+  {
+    "sid": 395,
+    "acronym": "MDRN",
+    "name": "Medullary reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "MDRN"
+    ]
+  },
+  {
+    "sid": 398,
+    "acronym": "SOC",
+    "name": "Superior olivary complex",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sen",
+      "SOC"
+    ]
+  },
+  {
+    "sid": 429,
+    "acronym": "SPVC",
+    "name": "Spinal nucleus of the trigeminal, caudal part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "SPVC"
+    ]
+  },
+  {
+    "sid": 437,
+    "acronym": "SPVI",
+    "name": "Spinal nucleus of the trigeminal, interpolar part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "SPVI"
+    ]
+  },
+  {
+    "sid": 445,
+    "acronym": "SPVO",
+    "name": "Spinal nucleus of the trigeminal, oral part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "SPVO"
+    ]
+  },
+  {
+    "sid": 534,
+    "acronym": "SUT",
+    "name": "Supratrigeminal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "SUT"
+    ]
+  },
+  {
+    "sid": 574,
+    "acronym": "TRN",
+    "name": "Tegmental reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "TRN"
+    ]
+  },
+  {
+    "sid": 576,
+    "acronym": "ACVII",
+    "name": "Accessory facial motor nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "ACVII"
+    ]
+  },
+  {
+    "sid": 604,
+    "acronym": "NI",
+    "name": "Nucleus incertus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "NI"
+    ]
+  },
+  {
+    "sid": 612,
+    "acronym": "NLL",
+    "name": "Nucleus of the lateral lemniscus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sen",
+      "NLL"
+    ]
+  },
+  {
+    "sid": 621,
+    "acronym": "V",
+    "name": "Motor nucleus of trigeminal",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "V"
+    ]
+  },
+  {
+    "sid": 642,
+    "acronym": "NTB",
+    "name": "Nucleus of the trapezoid body",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "NTB"
+    ]
+  },
+  {
+    "sid": 651,
+    "acronym": "NTS",
+    "name": "Nucleus of the solitary tract",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "NTS"
+    ]
+  },
+  {
+    "sid": 653,
+    "acronym": "VI",
+    "name": "Abducens nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "VI"
+    ]
+  },
+  {
+    "sid": 661,
+    "acronym": "VII",
+    "name": "Facial motor nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "VII"
+    ]
+  },
+  {
+    "sid": 679,
+    "acronym": "CS",
+    "name": "Superior central nucleus raphe",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sat",
+      "CS"
+    ]
+  },
+  {
+    "sid": 711,
+    "acronym": "CU",
+    "name": "Cuneate nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "DCN",
+      "CU"
+    ]
+  },
+  {
+    "sid": 765,
+    "acronym": "x",
+    "name": "Nucleus x",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "x"
+    ]
+  },
+  {
+    "sid": 773,
+    "acronym": "XII",
+    "name": "Hypoglossal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "XII"
+    ]
+  },
+  {
+    "sid": 781,
+    "acronym": "y",
+    "name": "Nucleus y",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "y"
+    ]
+  },
+  {
+    "sid": 839,
+    "acronym": "DMX",
+    "name": "Dorsal motor nucleus of the vagus nerve",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "DMX"
+    ]
+  },
+  {
+    "sid": 852,
+    "acronym": "PARN",
+    "name": "Parvicellular reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PARN"
+    ]
+  },
+  {
+    "sid": 859,
+    "acronym": "PAS",
+    "name": "Parasolitary nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PAS"
+    ]
+  },
+  {
+    "sid": 867,
+    "acronym": "PB",
+    "name": "Parabrachial nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-sen",
+      "PB"
+    ]
+  },
+  {
+    "sid": 880,
+    "acronym": "DTN",
+    "name": "Dorsal tegmental nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "DTN"
+    ]
+  },
+  {
+    "sid": 898,
+    "acronym": "PCG",
+    "name": "Pontine central gray",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "PCG"
+    ]
+  },
+  {
+    "sid": 903,
+    "acronym": "ECU",
+    "name": "External cuneate nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "ECU"
+    ]
+  },
+  {
+    "sid": 931,
+    "acronym": "PG",
+    "name": "Pontine gray",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "PG"
+    ]
+  },
+  {
+    "sid": 970,
+    "acronym": "PGRNd",
+    "name": "Paragigantocellular reticular nucleus, dorsal part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PGRN",
+      "PGRNd"
+    ]
+  },
+  {
+    "sid": 978,
+    "acronym": "PGRNl",
+    "name": "Paragigantocellular reticular nucleus, lateral part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PGRN",
+      "PGRNl"
+    ]
+  },
+  {
+    "sid": 1039,
+    "acronym": "GR",
+    "name": "Gracile nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "DCN",
+      "GR"
+    ]
+  },
+  {
+    "sid": 1048,
+    "acronym": "GRN",
+    "name": "Gigantocellular reticular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "GRN"
+    ]
+  },
+  {
+    "sid": 1069,
+    "acronym": "PPY",
+    "name": "Parapyramidal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "PPY"
+    ]
+  },
+  {
+    "sid": 1093,
+    "acronym": "PRNc",
+    "name": "Pontine reticular nucleus, caudal part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "PRNc"
+    ]
+  },
+  {
+    "sid": 1098,
+    "acronym": "MDRNd",
+    "name": "Medullary reticular nucleus, dorsal part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "MDRN",
+      "MDRNd"
+    ]
+  },
+  {
+    "sid": 1107,
+    "acronym": "MDRNv",
+    "name": "Medullary reticular nucleus, ventral part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-mot",
+      "MDRN",
+      "MDRNv"
+    ]
+  },
+  {
+    "sid": 549009215,
+    "acronym": "P5",
+    "name": "Peritrigeminal zone",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "P5"
+    ]
+  },
+  {
+    "sid": 549009219,
+    "acronym": "Acs5",
+    "name": "Accessory trigeminal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "Acs5"
+    ]
+  },
+  {
+    "sid": 549009223,
+    "acronym": "PC5",
+    "name": "Parvicellular motor 5 nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "PC5"
+    ]
+  },
+  {
+    "sid": 549009227,
+    "acronym": "I5",
+    "name": "Intertrigeminal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "I5"
+    ]
+  },
+  {
+    "sid": 589508451,
+    "acronym": "Pa5",
+    "name": "Paratrigeminal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "MY",
+      "MY-sen",
+      "Pa5"
+    ]
+  },
+  {
+    "sid": 599626927,
+    "acronym": "PDTg",
+    "name": "Posterodorsal tegmental nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "HB",
+      "P",
+      "P-mot",
+      "PDTg"
+    ]
+  }
+]

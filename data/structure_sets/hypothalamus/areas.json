@@ -1,0 +1,624 @@
+[
+  {
+    "sid": 1,
+    "acronym": "TMv",
+    "name": "Tuberomammillary nucleus, ventral part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "MBO",
+      "TM",
+      "TMv"
+    ]
+  },
+  {
+    "sid": 30,
+    "acronym": "PVa",
+    "name": "Periventricular hypothalamic nucleus, anterior part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVZ",
+      "PVa"
+    ]
+  },
+  {
+    "sid": 38,
+    "acronym": "PVH",
+    "name": "Paraventricular hypothalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVZ",
+      "PVH"
+    ]
+  },
+  {
+    "sid": 63,
+    "acronym": "PVHd",
+    "name": "Paraventricular hypothalamic nucleus, descending division",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "PVHd"
+    ]
+  },
+  {
+    "sid": 72,
+    "acronym": "ADP",
+    "name": "Anterodorsal preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "ADP"
+    ]
+  },
+  {
+    "sid": 88,
+    "acronym": "AHN",
+    "name": "Anterior hypothalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "AHN"
+    ]
+  },
+  {
+    "sid": 118,
+    "acronym": "PVi",
+    "name": "Periventricular hypothalamic nucleus, intermediate part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVZ",
+      "PVi"
+    ]
+  },
+  {
+    "sid": 126,
+    "acronym": "PVp",
+    "name": "Periventricular hypothalamic nucleus, posterior part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "PVp"
+    ]
+  },
+  {
+    "sid": 133,
+    "acronym": "PVpo",
+    "name": "Periventricular hypothalamic nucleus, preoptic part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "PVpo"
+    ]
+  },
+  {
+    "sid": 173,
+    "acronym": "RCH",
+    "name": "Retrochiasmatic area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "RCH"
+    ]
+  },
+  {
+    "sid": 194,
+    "acronym": "LHA",
+    "name": "Lateral hypothalamic area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "LHA"
+    ]
+  },
+  {
+    "sid": 210,
+    "acronym": "LM",
+    "name": "Lateral mammillary nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "MBO",
+      "LM"
+    ]
+  },
+  {
+    "sid": 223,
+    "acronym": "ARH",
+    "name": "Arcuate hypothalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVZ",
+      "ARH"
+    ]
+  },
+  {
+    "sid": 226,
+    "acronym": "LPO",
+    "name": "Lateral preoptic area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "LPO"
+    ]
+  },
+  {
+    "sid": 263,
+    "acronym": "AVP",
+    "name": "Anteroventral preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "AVP"
+    ]
+  },
+  {
+    "sid": 272,
+    "acronym": "AVPV",
+    "name": "Anteroventral periventricular nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "AVPV"
+    ]
+  },
+  {
+    "sid": 286,
+    "acronym": "SCH",
+    "name": "Suprachiasmatic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "SCH"
+    ]
+  },
+  {
+    "sid": 332,
+    "acronym": "ASO",
+    "name": "Accessory supraoptic group",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVZ",
+      "ASO"
+    ]
+  },
+  {
+    "sid": 338,
+    "acronym": "SFO",
+    "name": "Subfornical organ",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "SFO"
+    ]
+  },
+  {
+    "sid": 347,
+    "acronym": "SBPV",
+    "name": "Subparaventricular zone",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "SBPV"
+    ]
+  },
+  {
+    "sid": 356,
+    "acronym": "PST",
+    "name": "Preparasubthalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "PST"
+    ]
+  },
+  {
+    "sid": 364,
+    "acronym": "PSTN",
+    "name": "Parasubthalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "PSTN"
+    ]
+  },
+  {
+    "sid": 390,
+    "acronym": "SO",
+    "name": "Supraoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVZ",
+      "SO"
+    ]
+  },
+  {
+    "sid": 452,
+    "acronym": "MEPO",
+    "name": "Median preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "MEPO"
+    ]
+  },
+  {
+    "sid": 470,
+    "acronym": "STN",
+    "name": "Subthalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "STN"
+    ]
+  },
+  {
+    "sid": 491,
+    "acronym": "MM",
+    "name": "Medial mammillary nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "MBO",
+      "MM"
+    ]
+  },
+  {
+    "sid": 515,
+    "acronym": "MPN",
+    "name": "Medial preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "MPN"
+    ]
+  },
+  {
+    "sid": 523,
+    "acronym": "MPO",
+    "name": "Medial preoptic area",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "MPO"
+    ]
+  },
+  {
+    "sid": 525,
+    "acronym": "SUM",
+    "name": "Supramammillary nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "MBO",
+      "SUM"
+    ]
+  },
+  {
+    "sid": 614,
+    "acronym": "TU",
+    "name": "Tuberal nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "TU"
+    ]
+  },
+  {
+    "sid": 689,
+    "acronym": "VLPO",
+    "name": "Ventrolateral preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "VLPO"
+    ]
+  },
+  {
+    "sid": 693,
+    "acronym": "VMH",
+    "name": "Ventromedial hypothalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "VMH"
+    ]
+  },
+  {
+    "sid": 763,
+    "acronym": "OV",
+    "name": "Vascular organ of the lamina terminalis",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "OV"
+    ]
+  },
+  {
+    "sid": 797,
+    "acronym": "ZI",
+    "name": "Zona incerta",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "ZI"
+    ]
+  },
+  {
+    "sid": 830,
+    "acronym": "DMH",
+    "name": "Dorsomedial nucleus of the hypothalamus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "DMH"
+    ]
+  },
+  {
+    "sid": 914,
+    "acronym": "PD",
+    "name": "Posterodorsal preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "PD"
+    ]
+  },
+  {
+    "sid": 946,
+    "acronym": "PH",
+    "name": "Posterior hypothalamic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "PH"
+    ]
+  },
+  {
+    "sid": 980,
+    "acronym": "PMd",
+    "name": "Dorsal premammillary nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "PMd"
+    ]
+  },
+  {
+    "sid": 1004,
+    "acronym": "PMv",
+    "name": "Ventral premammillary nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "PMv"
+    ]
+  },
+  {
+    "sid": 1109,
+    "acronym": "PS",
+    "name": "Parastrial nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "PS"
+    ]
+  },
+  {
+    "sid": 1126,
+    "acronym": "TMd",
+    "name": "Tuberomammillary nucleus, dorsal part",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "MEZ",
+      "MBO",
+      "TM",
+      "TMd"
+    ]
+  },
+  {
+    "sid": 10671,
+    "acronym": "ME",
+    "name": "Median eminence",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "ME"
+    ]
+  },
+  {
+    "sid": 576073699,
+    "acronym": "VMPO",
+    "name": "Ventromedial preoptic nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "PVR",
+      "VMPO"
+    ]
+  },
+  {
+    "sid": 576073704,
+    "acronym": "PeF",
+    "name": "Perifornical nucleus",
+    "ancestry": [
+      "root",
+      "grey",
+      "BS",
+      "IB",
+      "HY",
+      "LZ",
+      "PeF"
+    ]
+  }
+]
